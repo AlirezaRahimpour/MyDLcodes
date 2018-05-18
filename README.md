@@ -1,7 +1,7 @@
 # My_DLcodes
 My Implementation of some deep learning models (using Tensor Flow and Keras) including: 
 
-1. LSTM based Attention for machine translation. 
+1. [LSTM based Attention for machine translation.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Neural_machine_translation_with_attention.ipynb)
 2. Triplet loss for face recognition.
 3. Car detection (YOLO) for autonomous cars. 
 4. ResNet.
