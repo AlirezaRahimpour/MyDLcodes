@@ -1,5 +1,5 @@
 # My_DLcodes
-My Implementation of some interesting deep learning models (using Tensor Flow and Keras) including: 
+Some of my implementations of a few interesting deep learning models (using Tensor Flow and Keras) including: 
 
 1. [LSTM based Attention for machine translation.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Neural_machine_translation_with_attention.ipynb)
 2. [Triplet loss for face recognition.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Triplet%20loss%20for_Face_Recognition.ipynb)
@@ -9,4 +9,4 @@ My Implementation of some interesting deep learning models (using Tensor Flow an
 6. [Simple recognition task using CNN in TF with step by step details.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/CNN_Sign_recognition.ipynb)
 7. RNN from scratch. 
 
-Most of the codes are based on amazing Deep learning specialization ([deeplearning.ai](https://www.deeplearning.ai/)) programming assignments that I have taken. 
+Most of the codes are based on amazing Deep learning specialization ([deeplearning.ai](https://www.deeplearning.ai/)) programming assignments that I have taken before. 
