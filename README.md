@@ -9,4 +9,4 @@ My Implementation of some interesting deep learning models (using Tensor Flow an
 6. [Simple recognition task using CNN in TF with step by step details.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/CNN_Sign_recognition.ipynb)
 7. RNN from scratch. 
 
-Most of the codes are based on amazing Deep learning specializatin ([deeplearning.ai](https://www.deeplearning.ai/)) programming assignments that I took. 
+Most of the codes are based on amazing Deep learning specialization ([deeplearning.ai](https://www.deeplearning.ai/)) programming assignments that I have taken. 
