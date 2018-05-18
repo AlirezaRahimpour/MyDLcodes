@@ -1,11 +1,12 @@
 # My_DLcodes
-My Implementation of some deep learning models (using Tensor Flow and Keras) including: 
+My Implementation of some interesting deep learning models (using Tensor Flow and Keras) including: 
 
 1. [LSTM based Attention for machine translation.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Neural_machine_translation_with_attention.ipynb)
-2. Triplet loss for face recognition.
-3. Car detection (YOLO) for autonomous cars. 
-4. ResNet.
-5. Building CNN from scratch without any deep learning package.
-6. Simple recognition task using CNN in TF with step by step details. 
+2. [Triplet loss for face recognition.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Triplet%20loss%20for_Face_Recognition.ipynb)
+3. [Car detection (YOLO) for autonomous cars.] (https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Car_detection_for_Autonomous_driving.ipynb)
+4. [ResNet.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Residual_Networks.ipynb)
+5. [Building CNN from scratch without any deep learning package.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/CNN_form_scratch.ipynb)
+6. Simple recognition task using CNN in TF with step by step details.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/CNN_Sign_recognition.ipynb)
+7. RNN from scratch. 
 
-Most of the codes are based on amazing Deep learning specializatin (deeplearning.ai) programming assignments that I took. 
+Most of the codes are based on amazing Deep learning specializatin ([deeplearning.ai](https://www.deeplearning.ai/)) programming assignments that I took. 
