@@ -1,4 +1,4 @@
-# My_OldDLcodes (very old stuff!) 
+# My_OldDLcodes 
 Some of my implementations of a few interesting deep learning models (using Tensor Flow) including: 
 
 1. [LSTM based Attention for machine translation.](https://github.com/AlirezaRahimpour/My_DLcodes/blob/master/Neural_machine_translation_with_attention.ipynb)
